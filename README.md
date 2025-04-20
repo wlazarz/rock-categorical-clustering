@@ -11,11 +11,6 @@ A Python implementation of the **ROCK** algorithm for clustering categorical dat
 1. [Introduction](#introduction)
 2. [Algorithm Overview](#algorithm-overview)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Parameters](#parameters)
-6. [Performance and Complexity](#performance-and-complexity)
-7. [References](#references)
-8. [License](#license)
 
 ---
 
