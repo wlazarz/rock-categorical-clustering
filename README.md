@@ -4,16 +4,6 @@ A Python implementation of the **ROCK** algorithm for clustering categorical dat
 
 > **Guha, S., Rastogi, R., & Shim, K.** (2000). *ROCK: A Robust Clustering Algorithm for Categorical Attributes*. In _Proceedings of the 2000 International Conference on Management of Data_ (SIGMOD).
 
----
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Algorithm Overview](#algorithm-overview)
-3. [Installation](#installation)
-
----
-
 ## Introduction
 
 ROCK (Robust Clustering using LinKs) is a hierarchical clustering algorithm designed specifically for categorical data. Unlike traditional distance-based methods, ROCK uses a notion of **link** (common categorical co-occurrences) to group objects, providing resilience to noise and skewed distributions.
